@@ -98,3 +98,5 @@ deploy:
   type: git
   repo: git@github.com:jin10086/xunta.git
   branch: master
+
+all_minifier: true
