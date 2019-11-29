@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 寻TA
+subtitle: '立马寻找你的TA'
+description: '聚合N个相亲平台,为你找到你的TA'
+keywords: 相亲、XUNTA、寻TA
+author: 'Gao JIn'
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://xunta.today
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
