@@ -100,3 +100,5 @@ deploy:
   branch: master
 
 all_minifier: true
+image_minifier:
+  enable: false
